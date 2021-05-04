@@ -4,12 +4,15 @@
 Iterable round-robin for JavaScript.
 See [docs](https://iterable-iterator.github.io/round-robin/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+
+```js
+import {roundRobin} from '@iterable-iterator/round-robin';
+roundRobin( [ "ABC" , "D" , "EF" ] ) ; // A D E B F C
+```
 
 [![License](https://img.shields.io/github/license/iterable-iterator/round-robin.svg)](https://raw.githubusercontent.com/iterable-iterator/round-robin/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/round-robin.svg)](https://www.npmjs.org/package/@iterable-iterator/round-robin)
