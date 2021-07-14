@@ -1935,10 +1935,10 @@
   resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.5.tgz#0cf54ae8f76a025a8df015acd958192fb29a5e9a"
   integrity sha512-1wYCScLBgVzSrXWDNg6KqZPCTtrbduDIxGGx3OXfGXQgWusFC8vdgKL6XLycAgsv3FRx8jardWQGYnEHUCccQQ==
 
-"@functional-abstraction/operator@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@functional-abstraction/operator/-/operator-1.0.4.tgz#6bcc9ef381fd8897f8fa2f10a05df208558e9519"
-  integrity sha512-YtWuVroQ4l9YXSu8E0PqVguI/5jf2O34lMa3KILPT7zAsCWrC+2hGDHd58FJu5FIej8V5cRgRvczSsf/vmTXNw==
+"@functional-abstraction/operator@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@functional-abstraction/operator/-/operator-3.0.0.tgz#afa5f4f445a0147a13d5b19015cc1d9373e26b1a"
+  integrity sha512-Jbf4htiKYk/qa/2Tv0U2KRrfquEPeQ+Bv2CWYYw6kYyJqNlH1hlXi6L8SdQXNs88oyly9Ok994jtwLTwNUFaSg==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
