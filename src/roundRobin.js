@@ -1,9 +1,8 @@
 import {len} from '@functional-abstraction/operator';
-
-import {slice} from '@iterable-iterator/slice';
 import {cycle} from '@iterable-iterator/cycle';
-import {map} from '@iterable-iterator/map';
 import {iter} from '@iterable-iterator/iter';
+import {map} from '@iterable-iterator/map';
+import {slice} from '@iterable-iterator/slice';
 
 /**
  * Yields the first item of the first input iterable, then the first item of

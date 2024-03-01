@@ -1,6 +1,7 @@
 import test from 'ava';
 
 import {list} from '@iterable-iterator/list';
+
 import {roundRobin} from '#module';
 
 const repr = (x) => JSON.stringify(x);
