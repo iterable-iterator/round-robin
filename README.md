@@ -16,7 +16,7 @@ roundRobin( [ "ABC" , "D" , "EF" ] ) ; // A D E B F C
 
 [![License](https://img.shields.io/github/license/iterable-iterator/round-robin.svg)](https://raw.githubusercontent.com/iterable-iterator/round-robin/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/round-robin.svg)](https://www.npmjs.org/package/@iterable-iterator/round-robin)
-[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/round-robin/ci?event=push&label=tests)](https://github.com/iterable-iterator/round-robin/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/iterable-iterator/round-robin/ci.yml?branch=main&event=push&label=tests)](https://github.com/iterable-iterator/round-robin/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/round-robin.svg)](https://github.com/iterable-iterator/round-robin/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/round-robin.svg)](https://github.com/iterable-iterator/round-robin/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/round-robin.svg)](https://www.npmjs.org/package/@iterable-iterator/round-robin)
